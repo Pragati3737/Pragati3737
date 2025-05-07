@@ -9,6 +9,8 @@ As a seasoned Quality Assurance professional with over 6 years of experience, I 
 Proficient in tools like JIRA, HP Quality Center, and Postman, I have honed my ability to create and execute test cases, identify and resolve defects, and contribute to robust CI/CD pipelines. My technical toolkit also includes knowledge of HTML, CSS, JavaScript, SQL, and experience testing SOAP and RESTful web services.
 
 Beyond my QA expertise, I bring a unique perspective from my current role as a Preschool Teacher, where I have cultivated adaptability, communication, and an innate ability to work collaboratively—skills that seamlessly translate into the tech world. This blend of technical and interpersonal capabilities positions me as a versatile professional ready to tackle complex challenges with a solutions-oriented mindset.</p>
+## 📊 My Projects
+All of my project are available on GitHub!!
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=pragati3737 alt=pragati3737 /> </p>
 

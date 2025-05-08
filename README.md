@@ -7,7 +7,7 @@
 ⭐ I’m certified in Business Intelligence and have experience with tools like Power BI, Tableau, SQL, Python, and more. I also bring a strong QA background, including experience with JIRA, HPQC, Postman, and testing SOAP/REST APIs.
 ⭐ With hands-on experience in both tech and teaching, I approach every challenge with a solutions-oriented mindset and a genuine curiosity for learning and growth.
 
-⚡ <b>Skills:</b>
+⚡ <p><b>Skills:</b></p>
 <b>Data analysis • Data visualization • Business analytics • Python • SQL • Storytelling with data • Software testing • QA processes • API testing • CI/CD • Communication • Adaptability • Collaboration • Teaching • Leadership</b></p>
 ## 📊 My Projects
 

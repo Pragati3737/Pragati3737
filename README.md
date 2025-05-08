@@ -1,7 +1,7 @@
 ## Hey 👋, This is Pragati Sharma
 [![Gmail Badge](https://img.shields.io/badge/-jaypree86@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jaypree86@gmail.com)](mailto:jaypree86@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-pragatisharma-0a72a033a-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pragati-sharma-0a72a033a/)](https://www.linkedin.com/in/pragati-sharma-0a72a033a/) [![Github Badge](https://img.shields.io/badge/-pragati3737-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pragati3737/)](https://www.github.com/pragati3737/) <p align='left'><h2>💫 <About Me:</h2>
-<hr>
+[![Linkedin Badge](https://img.shields.io/badge/-pragatisharma-0a72a033a-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pragati-sharma-0a72a033a/)](https://www.linkedin.com/in/pragati-sharma-0a72a033a/) [![Github Badge](https://img.shields.io/badge/-pragati3737-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pragati3737/)](https://www.github.com/pragati3737/) 
+<p align='left'><h2>💫 <About Me:</h2>
 <li>⭐ I'm Pragati, a versatile professional with a strong foundation in data analytics and over 6 years of experience in Quality Assurance. I'm currently based in the USA and passionate about using data to solve real-world problems, especially in media and communications.</li>
 <li>⭐ I’ve completed 7+ technical projects involving real-world datasets and data storytelling, and I'm currently sharpening my skills as a Data Analyst Apprentice at TripleTen.</li>
 <li>⭐ My professional journey includes roles in software testing, education, and early childhood development—a path that has shaped my adaptability, communication, and collaborative spirit.</li>
@@ -9,7 +9,6 @@
 <li>⭐ With hands-on experience in both tech and teaching, I approach every challenge with a solutions-oriented mindset and a genuine curiosity for learning and growth.</li>
 
 <h2>⚡<b>Skills:</b></h2>
-<hr>
 <b>Data analysis • Data visualization • Business analytics • Python • SQL • Storytelling with data • Software testing • QA processes • API testing • CI/CD • Communication • Adaptability • Collaboration • Teaching • Leadership</b></p>
 ## 📊 My Projects
 

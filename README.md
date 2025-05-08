@@ -9,9 +9,12 @@
 
 <h2>⚡<b>Skills:</b></h2>
 <b>Data analysis • Data visualization • Business analytics • Python • SQL • Storytelling with data • Software testing • QA processes • API testing • CI/CD • Communication • Adaptability • Collaboration • Teaching • Leadership</b></p>
-## 📊 My Projects
-
+<h2>📊 My Projects</h2> 
 All of my project are available on GitHub!!
+<li>
+ Projects completed during my BI Analyst education can be found HERE.
+ <a href="https://github.com/Pragati3737/Data_projects_TripleTen">HERE</a></li>
+ 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=pragati3737 alt=pragati3737 /> </p>
 

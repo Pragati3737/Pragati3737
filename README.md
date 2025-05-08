@@ -1,15 +1,16 @@
 ## Hey 👋, This is Pragati Sharma
 [![Gmail Badge](https://img.shields.io/badge/-jaypree86@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jaypree86@gmail.com)](mailto:jaypree86@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-pragatisharma-0a72a033a-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pragati-sharma-0a72a033a/)](https://www.linkedin.com/in/pragati-sharma-0a72a033a/) [![Github Badge](https://img.shields.io/badge/-pragati3737-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pragati3737/)](https://www.github.com/pragati3737/) <p align='left'>Hi! I'm Pragati, a professional data analyst with experience on more than 7 technical projects. My skills include business analytics, data visualization and storytelling, Python, SQL, and ML. Now, I am eager to leverage my big data and visualization skills in the media & communications sphere to drive growth and boost sales.
+[![Linkedin Badge](https://img.shields.io/badge/-pragatisharma-0a72a033a-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pragati-sharma-0a72a033a/)](https://www.linkedin.com/in/pragati-sharma-0a72a033a/) [![Github Badge](https://img.shields.io/badge/-pragati3737-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pragati3737/)](https://www.github.com/pragati3737/) <p align='left'>💫 About Me:
+⭐ I'm Pragati, a versatile professional with a strong foundation in data analytics and over 6 years of experience in Quality Assurance. I'm currently based in the USA and passionate about using data to solve real-world problems, especially in media and communications.
+⭐ I’ve completed 7+ technical projects involving real-world datasets and data storytelling, and I'm currently sharpening my skills as a Data Analyst Apprentice at TripleTen.
+⭐ My professional journey includes roles in software testing, education, and early childhood development—a path that has shaped my adaptability, communication, and collaborative spirit.
+⭐ I’m certified in Business Intelligence and have experience with tools like Power BI, Tableau, SQL, Python, and more. I also bring a strong QA background, including experience with JIRA, HPQC, Postman, and testing SOAP/REST APIs.
+⭐ With hands-on experience in both tech and teaching, I approach every challenge with a solutions-oriented mindset and a genuine curiosity for learning and growth.
 
-As a Data Analyst Apprentice at Triple Ten , I am gaining hands-on experience in data analytics fundamentals and problem solving. I have completed multiple projects using real-world datasets and presented my findings to stakeholders from the community.
-
-As a seasoned Quality Assurance professional with over 6 years of experience, I specialize in ensuring seamless software functionality and user satisfaction through meticulous testing and analysis.
-
-Proficient in tools like JIRA, HP Quality Center, and Postman, I have honed my ability to create and execute test cases, identify and resolve defects, and contribute to robust CI/CD pipelines. My technical toolkit also includes knowledge of HTML, CSS, JavaScript, SQL, and experience testing SOAP and RESTful web services.
-
-Beyond my QA expertise, I bring a unique perspective from my current role as a Preschool Teacher, where I have cultivated adaptability, communication, and an innate ability to work collaboratively—skills that seamlessly translate into the tech world. This blend of technical and interpersonal capabilities positions me as a versatile professional ready to tackle complex challenges with a solutions-oriented mindset.</p>
+⚡ Skills:
+Data analysis • Data visualization • Business analytics • Python • SQL • Storytelling with data • Software testing • QA processes • API testing • CI/CD • Communication • Adaptability • Collaboration • Teaching • Leadership</p>
 ## 📊 My Projects
+
 All of my project are available on GitHub!!
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=pragati3737 alt=pragati3737 /> </p>
